@@ -1,7 +1,6 @@
 # BetBot
 
-# Things you need:
-  # .env file containing:
+# Change .env file to contain:
   `DISCORD_TOKEN = <Discord API token>`
   
   `GIPHY_TOKEN = <Giphy API token>`
